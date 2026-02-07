@@ -1,47 +1,21 @@
-# 🛡️ FINANCIAL SENTINEL: AGENTIC RAG ENGINE 🛡️
-### *Automated Multi-Jurisdictional Compliance & Anti-Fragile Risk Orchestration*
+🛡️ FINANCIAL SENTINEL: AGENTIC RAG ENGINE
+Enterprise-Grade Multi-Agent Orchestration for Global Regulatory Compliance
+🚀 Executive Overview
+Financial Sentinel е елитен Agentic RAG (Retrieval-Augmented Generation) систем, специјално дизајниран за FinTech гиганти и брокерски куќи кои оперираат во комплексни глобални регулаторни рамки.
 
----
+За разлика од стандардните RAG системи кои само пребаруваат и сумираат податоци, Sentinel функционира како автономен ревизор (Autonomous Auditor). Системот користи софистицирана мрежа на интелигентни агенти кои не само што ги пронаоѓаат податоците, туку вршат критичка анализа, ги идентификуваат законските разлики меѓу јурисдикциите (напр. ESMA vs. ASIC) и испорачуваат прецизни, ризично-моделирани извештаи подготвени за финална правна ревизија.
 
-## 🚀 Overview
-**Financial Sentinel** is an elite **Agentic RAG (Retrieval-Augmented Generation)** system specifically engineered for FinTech giants operating in highly volatile global regulatory environments. Unlike standard RAG systems that merely summarize text, the Sentinel acts as an autonomous compliance officer. It doesn't just retrieve data; it reasons through conflicting legal mandates across jurisdictions (e.g., ESMA, ASIC, CIMA) to provide audit-ready, risk-mitigated intelligence.
+🛠️ Advanced Technology Stack & LLM Ops
+Проектот е изграден врз принципите на Anti-Fragile Systems Design, со фокус на екстремна прецизност и нулта толеранција за халуцинации.
 
-## 🛠️ Core Technology Stack
-* **Engine:** Agentic RAG Architecture.
-* **Orchestration Platform:** Coze.
-* **Logic Framework:** Anti-Fragile Systems Design (Zero-Hallucination Policy).
-* **Primary Jurisdictions:** EU (ESMA), Australia (ASIC), Cayman Islands (CIMA), and more.
+Core Engine: Agentic RAG Architecture (Multi-step Reasoning Loops).
 
-## ✨ Key Features
-* **Autonomous Reasoning:** Evaluates regulatory deltas between different regions in real-time.
-* **Knowledge-Base Grounding:** 100% reliance on verified regulatory PDF documentation.
-* **Conflict Resolution:** Identifies and flags contradictions between international and local financial laws.
-* **Audit-Ready Output:** Generates structured compliance blocks ready for legal review.
+Orchestration Platform: Coze (Advanced Multi-Agent Workflows).
 
----
+Intelligence Layer: GPT-4o & Gemini 1.5 Pro (Dual-Model cross-verification).
 
-## 🧠 The Master Prompt (Engine Logic)
-The core intelligence of the Financial Sentinel is driven by a highly sophisticated, multi-layered prompt designed for precision and professional rigor.
+LLM Ops Framework: * Automated Evaluation: Интегриран систем за самоевалуација кој го проверува секој одговор со изворната документација (Knowledge Base Grounding).
 
-### 📋 Prompt Metadata
-* **Product Name:** Financial Sentinel: Agentic RAG Engine.
-* **Core Target Persona:** Compliance Officers & Risk Managers at Global Brokerages.
-* **Tone:** Professional, Analytical, Decisive.
+Prompt Engineering: Senior-level системски инструкции со вградени "Chain-of-Thought" (CoT) процеси.
 
-> **Note:** The full system prompt includes an integrated evaluation layer to ensure all responses are cross-referenced with the uploaded Knowledge Base (RAG) before final output generation.
-
----
-
-## 📈 Future Prospects
-* **Automated Licensing:** Streamlining the application process for new financial jurisdictions.
-* **Real-time Risk Mitigation:** Integration with live trading platforms to block non-compliant transactions.
-* **Cross-Sector Scaling:** Adaptable for Healthcare, GDPR, and ESG regulatory frameworks.
-
----
-
-## 🔗 Links
-* **Demo Video:** [Link to be added after recording]
-* **Live Application (Coze):** [Link to be added after publishing]
-
----
-*Developed for the Deriv AI Talent Sprint Hackathon on Lablab.ai*
+Deployment: Live Telegram Bot интерфејс за инстант пристап до ревизорски податоци.
